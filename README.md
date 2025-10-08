@@ -2,8 +2,9 @@
 
 A simple and interactive Currency Converter Web App built using HTML, CSS, and JavaScript.
 It allows users to convert currencies in real-time using the latest exchange rates from an external API.
----------------------------------------------------------------------------------------------------------------------
-Features
+_________________________________________________________________________________________________________________
+
+ **Features**
 
  Converts currencies between any two countries
 
@@ -14,8 +15,9 @@ Features
  Fully responsive and lightweight UI
 
  Simple, clean, and user-friendly design
------------------------------------------------------------------------------------------------------------------------------------
-**Technologies Used**
+_______________________________________________________________________________________________________________________
+
+ **Technologies Used**
 
 HTML5 – for structure
 
@@ -28,8 +30,9 @@ Font Awesome – for icons
 FlagsAPI – for country flag images
 
 Currency API (jsDelivr) – for real-time exchange data
----------------------------------------------------------------------------------------------------------------------------------
-**Project Structure**
+_____________________________________________________________________________________________________________________
+
+ **Project Structure**
  
 CurrencyConverter/
 │
@@ -38,13 +41,13 @@ CurrencyConverter/
 ├── app.js          # Main JavaScript logic
 └── codes.js        # Country & currency mapping
 
---------------------------------------------------------------------------------------------------------------------------------
+________________________________________________________________________________________________________________________
 
- **How to Run the Project**
+**How to Run the Project**
 
 Clone the repository
 
-git clone https://github.com/your-username/CurrencyConverter.git
+git clone https://github.com/bhagatbalu/CurrencyConverter.git
 
 
 Open the folder in VS Code or any code editor.
