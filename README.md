@@ -35,10 +35,15 @@ ________________________________________________________________________________
  **Project Structure**
  
 CurrencyConverter/
+
 │
+
 ├── index.html      # Main HTML file
+
 ├── style.css       # Stylesheet
+
 ├── app.js          # Main JavaScript logic
+
 └── codes.js        # Country & currency mapping
 
 ________________________________________________________________________________________________________________________
